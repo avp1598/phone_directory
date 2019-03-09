@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/phone-dir/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "4e950077970bbe418f9f3ae3e60f0cff",
+    "revision": "6fb7931e316dbf0dca5bca91eb139637",
     "url": "/phone-dir/index.html"
   }
 ];
