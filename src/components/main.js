@@ -14,8 +14,8 @@ class Main extends Component{
     
         this.state = {
             data : [
-                {name: "Juani dela Cruz", number: "+639221113434",mail:"dela@cruz.com"},
-                {name: "Norah Jones", number: "+639223333434",mail:"norah@jones.com"}
+                {name: "Default 1", number: "+9191919191",mail:"default@d.com"},
+                {name: "Default 2", number: "+639223333434",mail:"default@b.com"}
                 ],
             isModalOpen: false
           };

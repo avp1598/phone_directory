@@ -2,7 +2,7 @@
   "name": "phone-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://avp1598.github.io/phone-dir",
+  "homepage": "http://avp1598.github.io/phone_directory",
   "dependencies": {
     "antd": "^3.15.0",
     "bootstrap": "^4.3.1",

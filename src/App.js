@@ -7,13 +7,13 @@ class App extends Component {
 
   render() {
     return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
         <div className="App">
-        <Route exact path='/' component={() => <Main />} />} />
+          <Route exact path='*' component={() => <Main />} />} />
         </div>
       </BrowserRouter>
     );
   }
 }
-
+//<Route exact path='/' component={() => <Main />} />} />
 export default App;
